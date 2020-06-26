@@ -1020,7 +1020,11 @@ Mリーグを見て麻雀戦術を学びたくなったライト層向けに書�
 ◆特徴◆  
 ・全ページカラー。予算の力を感じる。天鳳卓画で見やすい。  
 ・幕間に**私たちはファミリーです。** というタイトルの日向さんの素敵なコラムがある。そういういろんな意味でもファン向け。  
+<<<<<<< HEAD
 ・ABEMASのメンバーのカラー写真もいっぱいあります。もうおなかいっぱいです。
+=======
+・ABEMASのメンバーのカラー写真もいっぱいあります。おなかいっぱいです。
+>>>>>>> ea11ef9843bc24a63cc388d9606d44ebbefbdec2
     
 
  [amazonで買う](https://www.amazon.co.jp/%E5%BF%85%E5%8B%9D%EF%BC%81%E9%BA%BB%E9%9B%80%E5%AE%9F%E6%88%A6%E5%AF%BE%E5%B1%80%E5%95%8F%E9%A1%8C%E9%9B%86-%E8%BF%91%E4%BB%A3%E9%BA%BB%E9%9B%80%E6%88%A6%E8%A1%93%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-%E5%A4%9A%E4%BA%95%E9%9A%86%E6%99%B4-ebook/dp/B087327HGJ/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=%E5%BF%85%E5%8B%9D+%E9%BA%BB%E9%9B%80%E5%AE%9F%E8%B7%B5%E5%AF%BE%E5%B1%80&qid=1593180169&s=digital-text&sr=1-1 "Title")
